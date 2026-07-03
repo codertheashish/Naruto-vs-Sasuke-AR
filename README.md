@@ -1,4 +1,4 @@
-# 🍥 Naruto vs Sasuke Hand Tracking AR
+# 🍥 Naruto vs Sasuke AR
 
 An immersive AI-powered Hand Tracking AR experience inspired by **Naruto** and **Sasuke**, built using **MediaPipe Hands, HTML5 Canvas, CSS3, and JavaScript**.
 
@@ -9,7 +9,7 @@ Track your hand movements in real time and unleash anime-inspired chakra effects
 ## 🌐 Live Demo
 
 ```text
-https://codertheashish.github.io/AR-Naruto-vs-Sasuke/
+https://codertheashish.github.io/Naruto-vs-Sasuke-AR/
 ```
 
 ---
@@ -61,7 +61,7 @@ Use both hands together for an immersive anime battle experience.
 ## 📂 Project Structure
 
 ```text
-Naruto-vs-Sasuke-Hand-Tracking/
+Naruto-vs-Sasuke-AR/
 │
 ├── index.html
 ├── style.css
@@ -77,7 +77,7 @@ Naruto-vs-Sasuke-Hand-Tracking/
 ## 📥 Clone Repository
 
 ```bash
-https://github.com/codertheashish/AR-Naruto-vs-Sasuke
+https://github.com/codertheashish/Naruto-vs-Sasuke-AR/
 ```
 
 ---
