@@ -1,4 +1,4 @@
-# 🍥 Naruto vs Sasuke AR
+# Naruto vs Sasuke AR
 
 An immersive AI-powered Hand Tracking AR experience inspired by **Naruto** and **Sasuke**, built using **MediaPipe Hands, HTML5 Canvas, CSS3, and JavaScript**.
 
