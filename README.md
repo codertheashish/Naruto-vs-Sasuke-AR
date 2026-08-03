@@ -152,9 +152,14 @@ This project is licensed under the MIT License.
 
 ### Ashish Kumar Prajapati
 
-- GitHub: https://github.com/codertheashish
-- LinkedIn: https://www.linkedin.com/in/codertheashish
-
+- GitHub :
+[codertheashish](https://github.com/codertheashish)
+- LinkedIn :
+[codertheashish](https://www.linkedin.com/in/codertheashish/)
+- Instagram :
+[codertheashish](https://www.instagram.com/codertheashish/)
 ---
 
-⭐ If you found this project useful, consider giving it a star on GitHub!
+⭐ If you like this portfolio, don't forget to give it a star on GitHub.
+
+<img width="1672" height="941" alt="Naruto_vs_Sasuke_AR" src="https://github.com/user-attachments/assets/f566d1f4-d4dc-47b0-b4ef-c380d768e58e" />
