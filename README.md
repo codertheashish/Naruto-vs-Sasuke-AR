@@ -77,7 +77,7 @@ Naruto-vs-Sasuke-AR/
 ## 📥 Clone Repository
 
 ```bash
-https://github.com/codertheashish/Naruto-vs-Sasuke-AR/
+https://github.com/codertheashish/Naruto-vs-Sasuke-AR.git
 ```
 
 ---
